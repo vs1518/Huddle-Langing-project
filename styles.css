@@ -1,13 +1,73 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body {
     background-color:hsl(257, 40%, 49%) ;
+    color: #ffffff;
     background-image: url(bg-desktop.svg);
+    background-size: contain;
+    font-family: 'Poppins', sans-serif;;
+    padding-left: 5%;
+    font-size: 1.4em;
+    line-height: 1.5;
+    margin: 3em 3em 0 3em;
+
 }
 
+.img1 {
+    height: 50px;
+    max-width: 100%;
+    padding-top: 5%;
+        
+}
+
+section {
+    display: flex;
+}
+
+.square-image {
+    max-width: 100%;
+}
+
+.text {
+    display: flex;
+    flex: 50%;
+    flex-direction: column;
+    margin-left: 3em;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    color: #eeeeee;
+}
+
+button {
+    margin-top: 1em;
+    border-radius: 30px;
+    padding: 16px 0;
+    background-color: #eeeeee;
+    cursor: pointer;
+    color: hsl(257, 40%, 49%);
+    border: none;
+    text-align: center;
+    width: 30%;
+}
+
+button:hover { 
+    background-color: hsl(300, 69%, 71%) ;
+    color: #ffffff;
+}
+
+.social a {
+
+    width: 40px;
+    height: 40px;
+    float: right; 
+    border: none;
+    color: #ffffff;
+    
+}
+
+.social :hover i {
+    color: #c32aa3;
+}
 
 

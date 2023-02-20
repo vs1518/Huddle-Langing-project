@@ -1,72 +1,77 @@
-# Bienvenue ! 👋
+## Table des matières
+
+- [Table des matières](#table-des-matières)
+- [Aperçu](#aperçu)
+  - [Les objectifs](#les-objectifs)
+  - [Liens](#liens)
+- [Mon processus](#mon-processus)
+  - [Construit avec](#construit-avec)
+  - [Ce que j'ai appris](#ce-que-jai-appris)
+  - [Développement continu](#développement-continu)
+  - [Ressources utiles](#ressources-utiles)
+- [Auteur](#auteur)
+- [Remerciements](#remerciements)
+
+**Note : Supprimez cette note et mettez à jour la table des matières en fonction des sections que vous conservez.**
+
+## Aperçu
+
+### Les objectifs
+
+Les utilisateurs doivent être en mesure de :
+
+- Afficher la mise en page optimale en fonction de la taille de l'écran de leur appareil.
+- Voir les états de survol des éléments interactifs
 
 
-**Pour relever ce défi, vous devez avoir des connaissances de base en HTML et CSS.**
+### Liens
 
-## Le défi
+- URL de la solution : [Ajoutez l'URL de la solution ici](https://your-solution-url.com)
+- URL du site réel : [Ajouter l'URL du site réel ici](https://your-live-site-url.com)
 
-Votre défi consiste à créer cette page d'accueil à partir des modèles fournis dans le code de démarrage.
+## Mon processus
 
-Vous pouvez utiliser tous les outils que vous souhaitez pour vous aider à relever ce défi. Si vous avez un outil que vous souhaitez utiliser, n'hésitez pas à le faire.
+### Construit avec
 
-Vos utilisateurs devraient être en mesure de : 
+- Balisage sémantique HTML5
+- Propriétés CSS personnalisées
+- Flexbox
+- Grille CSS
+- Flux de travail axé sur le mobile
+- [React](https://reactjs.org/) - Bibliothèque JS
+- [Next.js](https://nextjs.org/) - Cadre de travail React.
+- [Styled Components](https://styled-components.com/) - Pour les styles.
 
-- Voir la mise en page optimale de la page en fonction de la taille de l'écran de leur appareil.
-- Voir les états de survol de tous les éléments interactifs de la page.
+**Note : Ce ne sont que des exemples. Supprimez cette note et remplacez la liste ci-dessus par vos propres choix**.
+
+### Ce que j'ai appris
 
 
-## Où tout trouver
 
-Votre tâche consiste à élaborer le projet à partir des designs contenus dans le dossier `/design`. Vous trouverez à la fois une version mobile et une version de bureau du design.
+### Développement continu
 
-Les designs sont au format statique JPG. L'utilisation de JPG signifie que vous devrez utiliser votre meilleur jugement pour les styles tels que `font-size`, `padding` et `margin`.
+Utilisez cette section pour décrire les domaines sur lesquels vous souhaitez continuer à vous concentrer dans vos futurs projets. Il peut s'agir de concepts avec lesquels vous n'êtes pas encore tout à fait à l'aise ou de techniques que vous avez trouvées utiles et que vous souhaitez affiner et perfectionner.
 
-Vous trouverez toutes les ressources nécessaires dans le dossier `/images`. Ces éléments sont déjà optimisés.
+**Note : supprimez cette note et le contenu de cette section et remplacez-les par vos propres plans de développement continu.
 
-Il y a aussi un fichier `style-guide.md` contenant les informations dont vous aurez besoin, comme la palette de couleurs et les polices.
+### Ressources utiles
 
-## Construction de votre projet
+- Exemple de ressource 1](https://www.example.com) - Cela m'a aidé pour la raison XYZ. J'ai vraiment aimé ce modèle et je l'utiliserai à l'avenir.
+- Exemple de ressource 2](https://www.example.com) - C'est un article incroyable qui m'a aidé à comprendre XYZ. Je le recommande à tous ceux qui apprennent encore ce concept.
 
-N'hésitez pas à utiliser le flux de travail qui vous convient. Vous trouverez ci-dessous une suggestion de processus, mais ne vous sentez pas obligé de suivre ces étapes :
+**Remarque : supprimez cette note et remplacez la liste ci-dessus par des ressources qui vous ont aidé pendant le défi. Ces ressources pourraient être utiles à toute personne qui consulte votre solution ou à vous-même lorsque vous vous pencherez sur ce projet à l'avenir.
 
-1. Initialisez votre projet en tant que dépôt public sur [GitHub](https://github.com/). La création d'un dépôt facilitera le partage de votre code avec la communauté si vous avez besoin d'aide. Si vous n'êtes pas sûr de savoir comment procéder, [lisez attentivement cette ressource Essayer Git](https://try.github.io/).
-2. Configurez votre dépôt pour publier votre code à une adresse web. Cela sera également utile si vous avez besoin d'aide pendant un exercice, car vous pouvez partager l'URL de votre projet avec l'URL de votre dépôt. Il y a plusieurs façons de le faire, et nous fournissons quelques recommandations ci-dessous.
-3. Regardez les designs pour commencer à planifier la façon dont vous allez aborder le projet. Cette étape est cruciale pour vous aider à penser à l'avance aux classes CSS afin de créer des styles réutilisables.
-4. Avant d'ajouter des styles, structurez votre contenu en HTML. Le fait d'écrire d'abord votre HTML peut vous aider à concentrer votre attention sur la création d'un contenu bien structuré.
-5. Rédigez les styles de base de votre projet, y compris les styles généraux de contenu, tels que `font-family` et `font-size`.
-6. Commencez à ajouter des styles en haut de la page et descendez. Ne passez à la section suivante que lorsque vous êtes sûr d'avoir terminé la zone sur laquelle vous travaillez.
+## Auteur
 
-## Déployer votre projet
+- Site Web - [Ajoutez votre nom ici](https://www.your-site.com)
+- Twitter - [@votre nom d'utilisateur](https://www.twitter.com/yourusername)
+- LinkedIn - [@votre nom d'utilisateur](https://www.linkedin.com/yourusername)
 
-Comme mentionné ci-dessus, il existe de nombreuses façons d'héberger votre projet gratuitement. Nous recommandons l'hébergement suivant :
 
-- [Pages GitHub](https://pages.github.com/)
+**Remarque : supprimez cette note et ajoutez/supprimez/modifiez les lignes ci-dessus en fonction des liens que vous souhaitez partager.
 
-## Créer un `README.md` personnalisé
+## Remerciements
 
-Nous recommandons fortement de remplacer ce `README.md` par un modèle personnalisé. Nous avons fourni un modèle dans le fichier [`README-template.md`](./README-template.md) dans ce code de démarrage.
+C'est ici que vous pouvez donner un coup de chapeau à tous ceux qui vous ont aidé sur ce projet. Vous avez peut-être travaillé en équipe ou vous vous êtes inspiré de la solution de quelqu'un d'autre. C'est l'endroit idéal pour leur donner un peu de crédit.
 
-Le modèle fournit un guide sur ce qu'il faut ajouter. Un `README` personnalisé vous aidera à expliquer votre projet et à faire le point sur vos apprentissages. N'hésitez pas à modifier notre modèle autant que vous le souhaitez.
-
-Une fois que vous avez ajouté vos informations au modèle, supprimez ce fichier et renommez le fichier `README-template.md` en `README.md`. Cela le fera apparaître comme le fichier README de votre dépôt.
-
-## Soumettre votre code
-
-Soumettez votre solution via le formulaire suivant :
-["Je dépose mes repos"](https://descodeuses.org/je-depose-mes-repos)
-
-N'oubliez pas que pour obtenir un feeback et comptabiliser votre exercices dans l'évaluation, vous devez :
-
-- déposez votre lien de repo github en public
-- avoir réaliser un livrable complet
-- avoir un README.md personnalisé
-- avoir au moins 3 commits
-
-## Partager votre code
-
-Il existe plusieurs endroits où vous pouvez partager votre solution :
-
-1. Partagez votre page de solution dans le canal **#finished-projects** de la [communauté Slack](https://www.frontendmentor.io/slack). 
-2. Partagez le repo et les URL en direct sur tweeter. 
-3. Partagez votre solution sur d'autres canaux sociaux comme LinkedIn.
-4. Tenez un blog sur votre expérience d'apprentissage, vos choix techniques. Parler de votre code est un excellent moyen de renforcer ce que vous avez appris. Les plateformes idéales pour écrire sont [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/) et [Medium](https://medium.com/).
+**Note : supprimez cette note et modifiez le contenu de cette section si nécessaire. Si vous avez réalisé ce défi tout seul, n'hésitez pas à supprimer entièrement cette section**.

@@ -1,4 +1,8 @@
-* 
+*{
+    padding: 0;
+    margin: 0;
+}
+
 
 body {
     background-color:hsl(257, 40%, 49%) ;
@@ -12,13 +16,12 @@ body {
 
 section {
     display: flex;
-    flex-direction: row;
-    margin-top: 5%;
+    flex-direction: wrap;
+    margin: 50px 0 50px 0;
     
-
-
 }
 .square-image {
+    background-image: url(illustration-mockups.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -27,9 +30,8 @@ section {
 }
 
 .text {
-    margin-left: 3em;
-    min-width: 275px;
     width: 40%;
+    min-width: 275px;
     color:#ffffff;
     font-family: 'Open Sans';
     font-size: 1.5rem;
@@ -43,7 +45,7 @@ h1 {
 
 p {
     font-family: 'Open Sans', sans-serif;
-    font-size: 17px;
+    font-size: 16px;
     color: #eeeeee;
 }
 
@@ -53,8 +55,8 @@ button {
     background-color: #eeeeee;
     cursor: pointer;
     color: hsl(257, 40%, 49%);
-    border: none;
     font-size: 1.7rem;
+    margin-top: 30px;
 }
 
 button:hover { 
